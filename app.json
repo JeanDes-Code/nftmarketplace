@@ -3,6 +3,7 @@
     "name": "nftmarketplace",
     "slug": "nftmarketplace",
     "version": "1.0.0",
+    "owner": "jeandes-code",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
