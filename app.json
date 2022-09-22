@@ -2,6 +2,7 @@
   "expo": {
     "name": "nftmarketplace",
     "slug": "nftmarketplace",
+    "privacy": "public",
     "version": "1.0.0",
     "owner": "jeandes-code",
     "orientation": "portrait",
